@@ -10,7 +10,7 @@ OTT streaming platforms rely on audience retention to maximize engagement and su
 Public OTT streaming dataset containing viewer level and content level information, including viewing progress, engagement metrics, and content attributes used to analyze drop-off behavior.
 
 **Datasource:**  
-Public OTT Viewer Drop-off Dataset
+[OTT Viewer Drop-Off & Retention Risk Dataset (Kaggle)](https://www.kaggle.com/datasets/eklavya16/ott-viewer-drop-off-and-retention-risk-dataset)
 
 ## Analytical Workflow
 - Loaded and validated OTT viewing data using R
