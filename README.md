@@ -2,6 +2,7 @@
 
 ## Overview
 This project analyzes viewer drop-off behavior in an OTT streaming context, focusing on how content characteristics influence audience retention. The objective is to understand where and why viewers disengage from content, supporting data driven decisions related to content strategy and user experience.
+[Project Page (business oriented view)](https://www.kaiopacheco.com/contentbaseddropoffanalysisinottstreaming)
 
 ## Business Problem
 OTT streaming platforms rely on audience retention to maximize engagement and subscription value. Viewer drop-off can vary significantly depending on content attributes, viewing patterns, and consumption behavior. Understanding which content characteristics are associated with higher or lower drop-off rates is essential for improving content planning, recommendation strategies, and overall platform performance. This analysis focuses on identifying content based patterns that explain viewer disengagement.
