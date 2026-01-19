@@ -1,7 +1,7 @@
 # Content Based Drop-off Analysis in OTT Streaming
 
 ## Overview
-This project analyzes viewer drop-off behavior in an OTT streaming context, focusing on how content characteristics influence audience retention. The objective is to understand where and why viewers disengage from content, supporting data driven decisions related to content strategy and user experience.
+This project analyzes viewer drop-off behavior in an OTT streaming context, focusing on how content characteristics influence audience retention. The objective is to understand where and why viewers disengage from content, supporting data driven discussions related to content strategy and user experience.
 
 [Project Page (business oriented view)](https://www.kaiopacheco.com/contentbaseddropoffanalysisinottstreaming)
 
