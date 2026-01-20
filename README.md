@@ -8,6 +8,12 @@ This project analyzes viewer drop-off behavior in an OTT streaming context, focu
 ## Business Problem
 OTT streaming platforms rely on audience retention to maximize engagement and subscription value. Viewer drop-off can vary significantly depending on content attributes, viewing patterns, and consumption behavior. Understanding which content characteristics are associated with higher or lower drop-off rates is essential for improving content planning, recommendation strategies, and overall platform performance. This analysis focuses on identifying content based patterns that explain viewer disengagement.
 
+## Key Metrics (KPIs)
+- **Drop-off Rate (primary KPI):** proportion of users who stop watching before completion  
+- **Early vs. Late Episode Drop-off Dynamics:** cross analysis of drop-off behavior within subsets of series, comparing late episode drop-off in series with high early drop-off and early episode drop-off in series with high late drop-off  
+- **Drop-off by Content Type:** drop-off rates segmented by content category  
+- **Retention Risk:** risk indicator derived from drop-off behavior
+
 ## Dataset
 Public OTT streaming dataset containing viewer level and content level information, including viewing progress, engagement metrics, and content attributes used to analyze drop-off behavior.
 
